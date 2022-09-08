@@ -1,0 +1,2 @@
+# myDjango
+my second project
